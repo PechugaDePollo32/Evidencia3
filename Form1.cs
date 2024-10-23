@@ -19,7 +19,7 @@ namespace Evidencia3
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            Console.WriteLine(textBox1.Text);
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
